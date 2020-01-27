@@ -6,7 +6,8 @@ namespace git_test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hej jag heter niklas!");
+            Console.ReadLine();
         }
     }
 }
